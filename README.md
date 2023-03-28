@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hi there, I'm Yulia 👋</a> 
 <h3 align="center">iOS-Developer from 🇧🇾</h3>
